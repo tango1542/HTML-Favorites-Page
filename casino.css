@@ -1,0 +1,20 @@
+p {
+  color: blue;
+}
+
+.jumbotron {
+  background: url('casino.jpg');
+  color: white;
+  text-align: center;
+  border-style: solid;
+  font-family: "Times New Roman", Times, serif;
+}
+
+a {
+    color: hotpink;
+    font-weight: bold;
+}
+
+h1 {
+ text-decoration: underline;
+}
