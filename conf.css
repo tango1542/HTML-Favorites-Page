@@ -1,0 +1,24 @@
+.btn-primary {
+
+  background: none;
+padding: 12px 22px;
+color: #0099cc;
+}
+
+input {
+color: #0099cc;
+}
+
+input.text: focus {
+  color: #cccccc;
+}
+
+body {
+  background: #466368;
+  background: -webkit-linear-gradient(rgb(255, 255, 0), rgb(255, 0, 0));
+  background:    -moz-linear-gradient(rgb(255, 255, 0), rgb(255, 0, 0));
+  background:         linear-gradient(rgb(255, 255, 0), rgb(255, 0, 0));
+}
+
+
+}
